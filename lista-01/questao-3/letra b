@@ -1,0 +1,4 @@
+function produtorio(...numeros) {
+    return numeros.reduce((total, n) => total * n, 1);
+}
+console.log(produtorio(2, 3, 4));

@@ -1,0 +1,5 @@
+let valorReal = parseFloat(prompt("Digite o valor em R$:"));
+let cotacaoDolar = parseFloat(prompt("Digite a cotação do dólar:"));
+let valorDolar = valorReal / cotacaoDolar;
+
+console.log(`US$ ${valorDolar.toFixed(2)}`);

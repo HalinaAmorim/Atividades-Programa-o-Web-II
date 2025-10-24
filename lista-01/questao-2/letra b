@@ -1,0 +1,3 @@
+let raio = parseFloat(prompt("Digite o raio do círculo:"));
+let perimetro = 2 * Math.PI * raio;
+console.log(`Perímetro: ${perimetro.toFixed(2)}`);

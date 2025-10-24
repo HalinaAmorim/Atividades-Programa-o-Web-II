@@ -1,0 +1,4 @@
+function filtrarImpares(numeros) {
+    return numeros.filter(n => n % 2 !== 0);
+}
+console.log(filtrarImpares([1, 2, 3, 4, 5, 6]));

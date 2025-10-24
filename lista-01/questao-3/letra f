@@ -1,0 +1,22 @@
+const contaBancaria = {
+    numero: "12345-6",
+    saldo: 500,
+
+    depositar(valor) {
+        this.saldo += valor;
+        console.log(`Depósito de R$${valor}. Saldo atual: R$${this.saldo}`);
+    },
+
+    sacar(valor) {
+        if (valor <= this.saldo) {
+            this.saldo -= valor;
+            console.log(`Saque de R$${valor}. Saldo atual: R$${this.saldo}`);
+        } else {
+            console.log("Saldo insuficiente!");
+        }
+    },
+
+    informarSaldo() {
+        console.log(`Saldo atual: R$${this.saldo}`);
+    }
+};

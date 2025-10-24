@@ -1,0 +1,7 @@
+function calcularCompra(valorUnitario, quantidade, desconto = 0) {
+    let total = valorUnitario * quantidade;
+    total -= total * desconto / 100;
+    return total;
+}
+console.log(calcularCompra(100, 3, 10)); 
+console.log(calcularCompra(50, 2));
