@@ -19,4 +19,4 @@ const contaBancaria = {
     informarSaldo() {
         console.log(`Saldo atual: R$${this.saldo}`);
     }
-};
+}; 
