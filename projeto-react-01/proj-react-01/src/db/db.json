@@ -1,0 +1,44 @@
+{
+  "cars": [
+    {
+      "id": "c001",
+      "title": "Toyota Corolla XEi 2022",
+      "brand": "Toyota",
+      "model": "Corolla XEi",
+      "category": "Sedan",
+      "year": 2022,
+      "km": 32000,
+      "price": 148900,
+      "image": "https://imgs.search.brave.com/lm6Out0wr7VidEAifAwwBFkWkkQCpi12R1MEGW_0IOU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/Y2FyemluLmNvbS5i/ci9fdXBsb2FkL2Nh/cnJvcy8yMDI2LzAx/LzE1L3RveW90YS1j/b3JvbGxhLTIwMjEt/MjAyMi0zNjg4OTYt/Njk2OTJhODA0OGU1/M190aHVtYi5qcGc",
+      "description": "Veículo em excelente estado, segundo dono, revisões realizadas em concessionária. Conforto, segurança e ótimo desempenho para uso urbano e rodoviário.",
+      "contact": "(21) 98877-6655"
+    },
+    {
+      "id": "c002",
+      "title": "Volkswagen Polo 1.0 MPI",
+      "brand": "Volkswagen",
+      "model": "Polo MPI",
+      "category": "Hatch",
+      "year": 2021,
+      "km": 41000,
+      "price": 67900,
+      "image": "https://imgs.search.brave.com/po5G5UFohOMFUeGI1Wb22bU9qKN7fna2cpqXHqj2lpI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMubm90aWNpYXNh/dXRvbW90aXZhcy5j/b20uYnIvaW1nL2Yv/dm9sa3N3YWdlbi1w/b2xvLW1waS0yMDE4/LWF2YWxpYSVDMyVB/NyVDMyVBM28tTkEt/MzcuanBn",
+      "description": "Carro muito bem conservado, econômico e confortável. Ideal para o dia a dia. Possui direção elétrica, ar-condicionado, central multimídia e excelente consumo de combustível.",
+      "contact": "(85) 99765-4321"
+    },
+    {
+      "id": "c003",
+      "title": "Fiat Strada Freedom CD",
+      "brand": "Fiat",
+      "model": "Strada Freedom",
+      "category": "Picape",
+      "year": 2023,
+      "km": 18000,
+      "price": 89900,
+      "image": "https://imgs.search.brave.com/Vr7n9ysYu5TWT-VC8oipdxgbd5MbKg7G0pdxkNYg3rI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/b2x4LmNvbS5ici90/aHVtYnM3MDB4NTAw/LzI4LzI4NTYwMTM2/NzQzMDg4MC53ZWJw",
+      "description": "Picape versátil e robusta, perfeita para trabalho e lazer. Baixa quilometragem, manutenção em dia e ótimo estado geral.",
+      "contact": "(31) 99654-8899"
+    }
+    
+  ]
+}
